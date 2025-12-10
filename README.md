@@ -62,4 +62,4 @@ Sistema de encogimiento de la arena:
 
 1. Clona el repositorio:
    ```bash
-git clone https://github.com/FalconPixel/Prueba.git
+   git clone https://github.com/FalconPixel/Prueba.git
